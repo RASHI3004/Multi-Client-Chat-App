@@ -15,9 +15,9 @@ Socket programming is a way of connecting two nodes on a network to communicate 
 Socket.io enables real-time event-based communication between one or more clients and a server. It works on every platform, browser or device and is fast and reliable. Socket.io has two parts: a client-side library that runs in the browser, and a server-side library for Node.js. Both components have an identical API.
 </br>
 </br>
-![login form](login_form.png)
+![login form](login form.png)
 </br>
-![login screen](login_screen.png)
+![login screen](login screen.png)
 </br>
 ![index](index.png)
 </br>
